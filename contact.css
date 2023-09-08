@@ -1,0 +1,58 @@
+body{
+margin: 0;
+}
+
+.kss{
+    height: 639px;
+    background-image: url(./oos.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.logo{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.head{
+    display: flex;
+}
+
+.log{
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+.log a{
+    /* margin-top: 50px; */
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    transition: 0.6s;
+}
+
+.log a:hover{
+    color: white;
+    border-bottom: 3px solid white;
+}
+
+.log .jod{
+    color: white;
+    border-bottom: 3px solid white;
+}
+
+.los{
+    margin-top: 100px;
+    margin-left: 120px;
+    width: 400px;
+    height: 400px;
+}
+
+.huit > img{
+image-orientation: flip;
+}
